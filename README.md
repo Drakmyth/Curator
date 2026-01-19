@@ -10,10 +10,7 @@ A ROM manager to help organize those totally legally obtained archival backups o
 
 ## Installation
 
-1. Download the latest release from the [Releases page](https://github.com/Drakmyth/Labormate/releases)
-1. Navigate to your World of Warcraft installation directory
-1. Extract the release archive into the `_retail_\Interface\AddOns` directory
-1. Start World of Warcraft and make sure `Labormate` is checked in the AddOns menu
+🚧 Coming soon... 🚧
 
 ## Usage
 
