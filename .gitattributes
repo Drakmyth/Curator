@@ -1,0 +1,12 @@
+*          text=auto
+
+.gitattributes text export-ignore
+.gitignore text export-ignore
+
+*.css      text diff=css
+*.go       text diff=golang
+*.html     text diff=html
+*.md       text diff=markdown
+*.mod      text eol=lf
+*.sh       text diff=bash
+*.sum      text eol=lf
