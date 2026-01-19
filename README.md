@@ -1,51 +1,34 @@
 # Curator
+[![License](https://img.shields.io/github/license/Drakmyth/Curator)](https://github.com/Drakmyth/Curator/blob/master/LICENSE.md)
 
 A ROM manager to help organize those totally legally obtained archival backups of yours.
 
 ### Built With
 
-* [![Htmx][htmx-shield]][htmx-url]
 * [![Golang][golang-shield]][golang-url]
-* [![TailwindCSS][tailwindcss-shield]][tailwindcss-url]
+* [![Wails][wails-shield]][wails-url]
 
-## Getting Started
+## Installation
 
-### Prerequisites
+1. Download the latest release from the [Releases page](https://github.com/Drakmyth/Labormate/releases)
+1. Navigate to your World of Warcraft installation directory
+1. Extract the release archive into the `_retail_\Interface\AddOns` directory
+1. Start World of Warcraft and make sure `Labormate` is checked in the AddOns menu
 
-This site only requires the Golang compiler, tooling, and libraries. These can be downloaded from the [Golang homepage](https://go.dev/) or installed via a package manager:
-* apt
-  ```sh
-  > apt install golang-go
-  ```
-* Chocolatey
-  ```pwsh
-  > choco install -y golang
-  ```
-* Homebrew
-  ```sh
-  > brew install go
-  ```
-* winget
-  ```pwsh
-  > winget install GoLang.Go
-  ```
+## Usage
 
-### Installation & Execution
+🚧 Coming soon... 🚧
 
-There is currently no additional installation necessary. Simply clone the repo and start the server.
+## Issues
+If you come across something that seems like a bug, please report it here. Make sure to follow these guidelines to ensure your report isn't closed as "Invalid":
 
-1. Clone the repo
-   ```sh
-   > git clone git@github.com:Drakmyth/fce-almanac.git
-   ```
-1. Start the server
-   ```sh
-   > go run server.go
-   ```
+* Make sure you are using the latest Release version of the Curator. Old versions are unsupported. Features and fixes will not be backported to old versions.
+* Search to see if someone else has already reported the bug. Duplicate reports just slow down getting things fixed.
+* Include steps to reproduce the issue in your report. Screenshots or videos may also prove helpful.
 
 ## Contributing
 
-While the data provided by this site is sourced from game files and is not provided here, the server software itself is open source! If you would like to contribute please feel welcome to do so! If you have a suggestion, you can fork the repo and create a pull request. Alternatively you can open an issue with the `enhancement` tag.
+Curator is open source! That means if you'd like to try your hand at fixing a bug or implementing a feature, please do so! Head over to the Issues page and look for any open issues tagged with the "Accepted" label. Create a branch, work on it, then submit a pull request. We'll work together to iron out any concerns with your code, and then we'll merge it in and your code will become a part of Curator's legacy!
 
 ## License
 
@@ -53,10 +36,8 @@ Distributed under the MIT License. See [LICENSE.md](./LICENSE.md) for more infor
 
 
 <!-- Reference Links -->
-[htmx-url]: https://htmx.org
-[htmx-shield]: https://img.shields.io/badge/htmx-4470d2?style=for-the-badge
 [golang-url]: https://go.dev
 [golang-shield]: https://img.shields.io/badge/golang-09657c?style=for-the-badge&logo=go&logoColor=79d2fa
-[tailwindcss-url]: https://tailwindcss.com/
-[tailwindcss-shield]: https://img.shields.io/badge/Tailwind%20CSS-0b111f?style=for-the-badge&logo=tailwindcss&logoColor=26bcf5
+[wails-url]: https://tailwindcss.com/
+[wails-shield]: https://img.shields.io/badge/Wails-242526?style=for-the-badge&logo=wails&logoColor=e33232
 
